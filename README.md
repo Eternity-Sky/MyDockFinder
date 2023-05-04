@@ -19,4 +19,5 @@ windows美化工具
 </div>
 
 #### 壁纸
-1.![输入图片说明](Dark%20macOS%E5%A3%81%E7%BA%B8.jpg)
+1.![bz](Dark%20macOS%E5%A3%81%E7%BA%B8.jpg)
+2.![bz](Light%20macOS%E5%A3%81%E7%BA%B8.jpg)
