@@ -18,4 +18,7 @@ windows美化工具
 <img src="效果.jpg" width="180" height="105">
 </div>
 
+#### 壁纸
+1.![dark壁纸](dkmacOS%20Ventura%20Wallpaper%20in%20Dark%20Mode.jpg)
+2.![light壁纸](ltmacOS%20Ventura%20Wallpaper%20in%20Light%20Mode.jpg)
 
