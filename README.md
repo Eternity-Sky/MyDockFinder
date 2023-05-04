@@ -19,6 +19,4 @@ windows美化工具
 </div>
 
 #### 壁纸
-1.![dark壁纸](dkmacOS%20Ventura%20Wallpaper%20in%20Dark%20Mode.jpg)
-2.![light壁纸](ltmacOS%20Ventura%20Wallpaper%20in%20Light%20Mode.jpg)
-
+1.![输入图片说明](Dark%20macOS%E5%A3%81%E7%BA%B8.jpg)
