@@ -1,0 +1,2 @@
+ 文件名                                               MD5	                                                SHA-256
+MyDock-Finder-master.zip	65f656834340e65d28327c685d9cc158	6e6504bc23229d47ec73e2acde4842671da505aaa5638f7de1daa69b18aff816
