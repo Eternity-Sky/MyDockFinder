@@ -7,8 +7,8 @@ windows美化工具
 
 #### 安装教程
 
-1.  运行mydock.exe
-    注  ：需要vc2019运行，因为安装程序过大没有提供，请自行下载
+#1.  运行mydock.exe
+#注  ：需要vc2019运行，因为安装程序过大没有提供，请自行下载
 
 
 
@@ -19,5 +19,4 @@ windows美化工具
 </div>
 
 #### 壁纸
-1.![bz](Dark%20macOS%E5%A3%81%E7%BA%B8.jpg)
-2.![bz](Light%20macOS%E5%A3%81%E7%BA%B8.jpg)
+见壁纸文件夹
