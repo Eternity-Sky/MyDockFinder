@@ -1,4 +1,4 @@
-# MDockFinder
+# MyDockFinder
 
 #### 介绍
 windows美化工具
