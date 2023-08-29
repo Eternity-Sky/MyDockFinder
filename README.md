@@ -1,18 +1,10 @@
-
-<head>
-    <link rel="stylesheet" href="/.css/style.css">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<a href="https://store.steampowered.com/app/1787090/MyDockFinder/">
-    <button class="btn">Steam 商店下载</button>
-</a>
-
 <a href="https://store.steamchina.com/app/1787090/MyDockFinder/">
     <button class="btn">蒸汽平台下载</button>
 </a>
-</body>
+
+<a href="https://store.steampowered.com/app/1787090/MyDockFinder/">
+    <button class="btn">Steam 商店下载</button>
+</a>
 
 # 欢迎使用 MyDockFinder
 ## 使用WinUI模糊效果 
