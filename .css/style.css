@@ -1,0 +1,46 @@
+    HTML+CSS
+html,body{
+    margin: 0;
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 390px;
+    height: 120px;
+    background:linear-gradient(315deg, #89d8d3 0%, #03c8a8 74%);
+    border: none;
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+    color: #fff;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+    7px 7px 20px 0px rgba(0, 0, 0, .1),
+    4px 4px 5px 0px rgba(0, 0, 0, .1);
+    outline: none;
+    position: relative;
+    z-index: 0;
+}
+.btn::before{
+    position:absolute;
+    content: '';
+    left: 0;
+    bottom:0;
+    width: 100%;
+    height: 0;
+    transition: all 0.3s ease;
+    border-radius: 10px;
+    background: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+    z-index: -1;
+}
+.btn:hover::before{
+    top: 0;
+    height: 100%;
+}
+.btn:active{
+    top: 2px;
+}
