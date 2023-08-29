@@ -14,6 +14,4 @@ windows美化工具
 
 
 #### 效果图：
-<div align=center>
-<img src="效果.jpg" width="180" height="105">
-</div>
+![img](效果.jpg)
