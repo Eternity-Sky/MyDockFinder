@@ -8,6 +8,9 @@
     <button class="btn">Steam 商店下载</button>
 </a>
 
+
+![img](https://store.st.dl.eccdnx.com/public/shared/images/header/logo_steam.svg?t=962016)
+
 ## 使用WinUI模糊效果 
 完美支持最新版Win11系统，使用WinUI模糊效果可以自定义调整模糊强度，部分界面使用Win11云母效果。 
 ## 运行程序图标显示窗口预览 
