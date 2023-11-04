@@ -25,6 +25,6 @@
 
 ## 贡献者
 
-<a href="https://github.com/用户名/项目名/graphs/contributors">
+<a href="https://github.com/Leaovo-man2/MyDockFinder/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Leaovo-man2/MyDockFinder" />
 </a>
