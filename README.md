@@ -3,7 +3,9 @@
 
 
 ![img](https://store.st.dl.eccdnx.com/public/shared/images/header/logo_steam.svg?t=962016)
-![img2](https://media.st.dl.eccdnx.com/steam/apps/1787090/header.jpg?t=1685879943)
+
+[MyDockFinder on STEAM](https://store.steampowered.com/app/1787090/MyDockFinder/)
+
 ## 使用WinUI模糊效果 
 完美支持最新版Win11系统，使用WinUI模糊效果可以自定义调整模糊强度，部分界面使用Win11云母效果。 
 ## 运行程序图标显示窗口预览 
